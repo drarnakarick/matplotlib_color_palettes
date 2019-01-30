@@ -4,12 +4,8 @@ These tutorials are based on the Urban Goggles project created at [AstroHackWeek
 More information can be found ond on the AHW Wiki.<br>
 Location: GitHub HQ (San Francisco) & Berkeley Institute for Data Science, 29th August – 2nd September, 2016.<br>
 
-<<<<<<< HEAD
-Urban Goggles: https://github.com/adrn/urbangoggles
-=======
 Urban Goggles: https://github.com/adrn/urbangoggles  
 
->>>>>>> cdf0da87745a024032ac8427f928ad95942dece2
 ![badge-img](https://img.shields.io/badge/Made%20at-%23AstroHackWeek-8063d5.svg?style=flat)
 
 The Jupyter notebooks take you through each step of the process, dissecting some of the functions along the way. The images were downloaded from the [Apollo Project Archive Flickr galleries](https://www.flickr.com/photos/projectapolloarchive/albums/) and the [Planet Labs Gallery](https://www.planet.com/gallery/)
