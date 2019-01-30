@@ -13,6 +13,8 @@ The Jupyter notebooks take you through each step of the process, dissecting some
 * Tutorial 1: [Color palettes from Apollo images (nbviewer)] (https://nbviewer.jupyter.org/github/drarnakarick/matplotlib_color_palettes/blob/master/apollo_color_palettes.ipynb)
 * Tutorial 2: [Color palettes from Planet Labs images (nbviewer)]
 (https://nbviewer.jupyter.org/github/drarnakarick/matplotlib_color_palettes/blob/master/planetlabs_color_palettes.ipynb)
+* Tutorial 3: [Color palettes from abstract art (nbviewer)]
+(https://nbviewer.jupyter.org/github/drarnakarick/matplotlib_color_palettes/blob/master/abstract_art_color_palettes.ipynb)
 
 #### Target audience:
 
