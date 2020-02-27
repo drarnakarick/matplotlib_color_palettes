@@ -1,4 +1,4 @@
-## Creating color palettes using numpy and matplotlib
+## Creating color palettes using numpy, scikit-learn, and matplotlib
 
 These tutorials are based on the Urban Goggles project created at [AstroHackWeek 2016](http://astrohackweek.org/2016/).<br>
 More information can be found ond on the AHW Wiki.<br>
